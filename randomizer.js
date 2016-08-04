@@ -1,5 +1,4 @@
 var names = [
-	"Nathan Wallace",
 	"George Smith-Sweeper",
 	"Ali Mahmoud",
 	"Joe Bosman",
